@@ -2,6 +2,9 @@
 
 body{
     font-family: 'PP Neue Montreal', 'Helvetica Neue', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.parent{
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: repeat(5, 1fr);
